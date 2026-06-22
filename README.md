@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-espera/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Dulce espera](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-espera/) |
+| **Get License** | [Get License For Dulce espera](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-espera/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dulce espera, I feel your fire tonight
+> Dulce espera, you're my dangerous light
+> Dulce espera, your body moves like a sin
+> Dulce espera, I'm already giving in
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
