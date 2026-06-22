@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce espera
+
+This log tracks the cryptographic history and versioning for the song **Dulce espera** (dulce-espera).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T03:32:46.012503 | `v1` | `bbe8bbf5262bc1147c3fa146877965930f01037f850629d2a1d5f00480036349` | `f5273af9fdd62678ff6ed144f98622d2b4005478f7a6fe80b2fa3ff2c9b18a5f` | `2026-06-23_dulce-espera-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

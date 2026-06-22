@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-espera/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Dulce espera](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-espera/) |
+| **Get License** | [Commercial Licensing for Dulce espera](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-espera/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `bbe8bbf5262bc1147c3fa146877965930f01037f850629d2a1d5f00480036349` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
